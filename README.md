@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Gudisi Umesh 👋
 
-<!--
-**gudisiumesh/gudisiumesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Python Full Stack Developer
 
-Here are some ideas to get you started:
+I recently completed my B.Com (Computers) and chose to build my career in Python Full Stack Development. I enjoy learning modern web technologies and building practical web applications that strengthen my programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently developing my skills in Python, HTML, CSS, JavaScript, React, FastAPI, MySQL, Git, and GitHub. My goal is to build real-world projects, continuously improve my technical knowledge, and grow into a skilled Full Stack Developer.
+
+## 🚀 Currently Learning
+- Python
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- FastAPI
+- MySQL
+- Git & GitHub
+
+## 🎯 Career Goal
+To become a professional Python Full Stack Developer by building scalable, user-friendly web applications and continuously learning new technologies.
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/gudisi-umesh-270a85378
+
+Thank you for visiting my GitHub profile!
