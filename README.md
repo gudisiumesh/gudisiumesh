@@ -1,7 +1,7 @@
-# Hi, I'm Gudisi Umesh 👋
+## Hi, I'm Gudisi Umesh 👋
 
 ### Aspiring Python Full Stack Developer
-I recently graduated with a B.Com (Computers) degree and am building my career in Python Full Stack Development. I enjoy learning modern web technologies and creating practical projects that improve my programming skills.
+I recently graduated with a B.Com (Computers) degree and am building my career in Python Full Stack Development. I enjoy learning modern web technologies and building practical projects that strengthen my programming and problem-solving skills.
 
 I am currently developing my skills in Python, HTML, CSS, JavaScript, React, FastAPI, MySQL, Git, and GitHub. My goal is to build real-world projects, continuously improve my technical knowledge, and grow into a skilled Full Stack Developer.
 
